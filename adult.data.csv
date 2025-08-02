@@ -1,0 +1,7 @@
+age,workclass,fnlwgt,education,education-num,merital-status,occupation,relationship,race,sex,capital-agin,captial-loass,hours-per-week,native-cuntry,salary
+39,State-gov,77516,Bechelors,13,Never-mirred,Adam-clerical,Not-in-family,White,Male,2174,0,40,United-States,<=50k
+50,slef-emp-not-inc,83311,Bechelors,13,Mired-civ-spouse,Exec-managerial,Husband,White,Male,0,0,13,United-States,<=50k
+38,private,215646,HS-grade,9,Divorced,Handlers-cleaners,Not-in-family,White,Male,0,0,40,United-States,<=50k
+53,private,234721,11th,7,Mired-civ-spouse,Handlers-cleaners,Husband,Black,Male,0,0,40,United-States,<=50k
+28,private,338409,Bechelors,13,Mired-civ-spouse,Prof-Specialty,Wife,Black,Female,0,0,40,Cuba,<=50k
+,,,,,,,,,,,,,,<=50k
